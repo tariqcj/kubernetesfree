@@ -18,5 +18,8 @@ free trail 14 days:
   private images: 10
   custom domain
  
-
+## kubesail.com
+  disk: 100MB
+  memory: 512MB
+  CPU: up to 1
   
